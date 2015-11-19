@@ -1,3 +1,4 @@
+# Comment
 FROM java:7
 MAINTAINER benil
 COPY src /home/root/javahelloworld/src
